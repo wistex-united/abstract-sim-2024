@@ -1,0 +1,12 @@
+.vscode/
+
+*/wandb
+*/policies/*.zip
+
+.DS_store
+/env
+/archive
+__pycache__/
+/runs
+/exported
+/policies
